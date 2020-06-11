@@ -29,3 +29,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+[code]
+src/main/app/* linguist-vendored
+[/code]
